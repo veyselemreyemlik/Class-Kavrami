@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\Static-Sinif-ve-Uyeler.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\Static-Sinif-ve-Uyeler.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\Static-Sinif-ve-Uyeler.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\Static-Sinif-ve-Uyeler.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\Static-Sinif-ve-Uyeler.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\ref\Static-Sinif-ve-Uyeler.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\bin\Debug\net5.0\Static-Sinif-ve-Uyeler.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\ref\Static-Sinif-ve-Uyeler.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler\obj\Debug\net5.0\Static-Sinif-ve-Uyeler.genruntimeconfig.cache

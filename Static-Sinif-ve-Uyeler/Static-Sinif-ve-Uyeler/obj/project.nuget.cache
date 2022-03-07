@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yoh9iPMVJNAgDfVoDpdk4dgRrin0QNRFEDEpFShwpva/ewAEcOGnRRwfuL2okTT+GreJ/hmlnK63uPuBgTSztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Static-Sinif-ve-Uyeler\\Static-Sinif-ve-Uyeler\\Static-Sinif-ve-Uyeler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
