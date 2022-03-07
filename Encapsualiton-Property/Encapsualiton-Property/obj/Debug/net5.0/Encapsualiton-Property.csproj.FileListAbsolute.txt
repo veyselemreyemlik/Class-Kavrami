@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\Encapsualiton-Property.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\Encapsualiton-Property.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\Encapsualiton-Property.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\Encapsualiton-Property.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\Encapsualiton-Property.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\ref\Encapsualiton-Property.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\bin\Debug\net5.0\Encapsualiton-Property.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\ref\Encapsualiton-Property.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Encapsualiton-Property\Encapsualiton-Property\obj\Debug\net5.0\Encapsualiton-Property.genruntimeconfig.cache
